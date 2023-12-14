@@ -1,0 +1,58 @@
+﻿
+ Awesomeness started, Getting Feeds 
+Seth Meyers 2017 03 28 Scarlett Johansson 720p HDTV x264-CROOKS
+Seth Meyers 2017 03 28 Scarlett Johansson HDTV x264-CROOKS
+TUTSPLUS WORKING WITH FOUNDATION FOR EMAILS TUTORIAL-kEISO
+UDEMY START WITH C C PLUS PLUS AND OBJECT ORIENTED PROGRAMMING TUTORIAL-kEISO
+The Real Housewives of Beverly Hills S07E17 From Dogs To Diamonds 1080p WEB x264-WEBSTER
+The Real Housewives of Beverly Hills S07E17 From Dogs To Diamonds 720p WEB x264-WEBSTER
+The Real Housewives of Beverly Hills S07E17 in titles log, skipping 
+Getting ID from IWO for The Real Housewives of Beverly Hills S07E17 From Dogs To Diamonds 720p WEB x264-WEBSTER 
+$$$$$$$ {"id":"2640","e_id":"139443"} : Array
+(
+    [year] => 
+    [full_title] => The Real Housewives of Beverly Hills
+    [clean_title] => The Real Housewives of Beverly Hills
+    [season] => 07
+    [episode] => 17
+    [type] => tv
+    [feed_title] => The Real Housewives of Beverly Hills S07E17 From Dogs To Diamonds 720p WEB x264-WEBSTER
+    [torrent] => https://www.torrentleech.org/rss/download/861090/e9c7fd51758d24ac18a3/The.Real.Housewives.of.Beverly.Hills.S07E17.From.Dogs.To.Diamonds.720p.WEB.x264-WEBSTER.torrent
+    [active] => 1
+    [userid] => 30
+    [language] => English
+    [link_type] => 4
+    [subtitle] => 
+)
+### 2640
+Found ID for The Real Housewives of Beverly Hills S07E17 From Dogs To Diamonds 720p WEB x264-WEBSTER 
+Array
+(
+    [year] => 
+    [full_title] => The Real Housewives of Beverly Hills
+    [clean_title] => The Real Housewives of Beverly Hills
+    [season] => 07
+    [episode] => 17
+    [type] => tv
+    [feed_title] => The Real Housewives of Beverly Hills S07E17 From Dogs To Diamonds 720p WEB x264-WEBSTER
+    [torrent] => https://www.torrentleech.org/rss/download/861090/e9c7fd51758d24ac18a3/The.Real.Housewives.of.Beverly.Hills.S07E17.From.Dogs.To.Diamonds.720p.WEB.x264-WEBSTER.torrent
+    [active] => 1
+    [userid] => 30
+    [language] => English
+    [link_type] => 4
+    [subtitle] => 
+    [e_id] => 139443
+    [id] => 2640
+)
+Downloading torrent file  
+Torrent size is greater then set in config. Skipping... 
+GET SESSION STATS... [success]
+Adding Torrent ... [success] (id=12)
+starting Torrent ... [success]
+percentDone:0
+percentDone:0
+percentDone:0
+percentDone:0
+percentDone:0
+percentDone:0
+percentDone:0.0008
